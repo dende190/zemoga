@@ -1,0 +1,20 @@
+.page_title {
+  text-align: center;
+}
+
+.user_title {
+  text-align: center;
+}
+
+.user_container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.tweets_list {
+  list-style: none;
+}
+
+.tweet_user {
+  display: flex;
+}

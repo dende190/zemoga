@@ -9,7 +9,7 @@ Clonar el proyecto en su computador
 
 ## 1. React:
 
-Primero use el comando `cd zemoga_react` en la terminal, ahora instale las
+Primero use el comando `cd react` en la terminal, ahora instale las
 dependencias usando `npm install` y al terminar inicie el proyecto con
 `npm start`
 
